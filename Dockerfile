@@ -1,1 +1,0 @@
-CMD npm run server
